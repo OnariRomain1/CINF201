@@ -1,0 +1,77 @@
+  .headerDiv{
+         display:flex;justify-content:center; 
+        align-items:center;  height:100px;
+    }
+    /*
+    H1 div class
+    */
+
+     .mainDiv{
+        display:flex;justify-content:center; 
+        align-items:center; 
+        height:400px; 
+        background-color: rgb(243,243,243);
+        text-align:center;
+    }
+    /*
+        MainDiv class
+    */
+
+     .scrollDiv{
+        background-color:rgb(64,104,76);
+        height: 200px; 
+        width:300px;
+        overflow: scroll;
+    }
+
+    /*
+        ScrollDiv class
+    */
+
+    #emailDiv{
+        margin: auto;
+        text-align:center;
+        padding:10px;
+    }
+    /*
+        EmailDiv class
+    */
+
+    a:link{
+        color: rgb(rgb(158, 239, 185), green, blue)
+    }
+    a:visited{
+        color:bisque
+    }
+     a:hover{
+        color: rgb(187, 223, 223);
+    }
+    /* selected link */
+    a:active {
+        color: yellow;
+    }
+
+    a{
+        color:rgb(243, 243, 243);
+    }
+    body{
+        background-color:rgb(64,104,76);
+    }
+    h1{
+        color: rgb(243, 243, 243);
+    }
+    h3{
+        color: rgb(243, 243, 243);
+    }
+    p{
+        color: rgb(243, 243, 243);
+    }
+    dt{
+        color:rgb(243, 243, 243);
+    }
+    dd{
+        text-indent: -30px;
+        color:rgb(243, 243, 243);
+    }
+   
+   
